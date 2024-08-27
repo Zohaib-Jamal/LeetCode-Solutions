@@ -1,3 +1,5 @@
 rough.cpp
 .vscode
+*
 !*.cpp
+Linked List/!*.cpp
